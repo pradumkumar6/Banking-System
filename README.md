@@ -32,7 +32,7 @@ A console-based **Banking Management System** built using **Core Java**, demonst
 
 ## 🏗️ Project Architecture
 
-src/
+## src/
 ┣ 📂 model/ # Contains Java Records (Account, Transaction)
 ┣ 📂 repository/ # In-memory data management (AccountRepository)
 ┣ 📂 service/ # Business logic (BankService)

@@ -30,15 +30,7 @@ A console-based **Banking Management System** built using **Core Java**, demonst
 
 ---
 
-## 🏗️ Project Architecture
 
-## src/
-┣ 📂 model/ # Contains Java Records (Account, Transaction)
-┣ 📂 repository/ # In-memory data management (AccountRepository)
-┣ 📂 service/ # Business logic (BankService)
-┣ 📂 exceptions/ # Custom exceptions (InvalidAccountException, etc.)
-┣ 📂 utils/ # Validation helpers
-┣ 📂 main/ # Entry point (Main.java)
 
 Welcome to Simple Banking System
 1. Open Account
